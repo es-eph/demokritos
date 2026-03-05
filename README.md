@@ -1,4 +1,15 @@
+Demokritos – Shader generation using Large Language Models
 
-This application leverages OpenAI’s GPT to create custom shaders based on user input, providing a seamless experience for generating and rendering shaders directly in-browser via WebGL.
+This project explores the generation of GLSL shaders from natural language descriptions using large language models.
 
-Users can generate shaders by simply describing their desired visual effects, and the app will interpret and convert those descriptions into working shader code. Additionally, users can render and evaluate the results in real-time, contributing to the refinement of shader prompts and expanding a collaborative library of effective examples.
+Features:
+• Natural language → shader code
+• Real-time rendering using WebGL
+• Evaluation of multiple LLMs (2024)
+• Interactive interface for prompt experimentation
+
+Demo:
+https://demokritos.xyz/start/shader/
+
+Presented at:
+[ISEA 2025 – International Symposium on Electronic Art](https://www.isea-symposium-archives.org/presentation/demokritos-interactive-community-centred-self-improving-shader-generation-using-large-language-models-presented-by-ferrando-clark-and-laurenzo-coronel/)
